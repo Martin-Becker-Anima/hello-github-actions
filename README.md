@@ -4,4 +4,4 @@ This course will walk you through writing your first action and using it with a 
 
 **First issue done.**
 
-**No action updatable from Idea.**
+**No action updatable from intelliJ.**
